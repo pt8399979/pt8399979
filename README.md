@@ -1,4 +1,4 @@
-![logo](https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=)
+![logo](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
